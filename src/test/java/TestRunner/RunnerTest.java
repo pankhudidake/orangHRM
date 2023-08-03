@@ -5,7 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 
 
 @CucumberOptions(
-		features= {"AllFeatureFiles"},
+		features= {"AllFeatures"},
 		glue= {"StepDefination"},
 		dryRun=false,
 plugin= {"pretty","com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
