@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <extentReports>
+	<configuration>
+		<theme>Standard</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>http</protocol>
+		<documentTitle>OrangeHRM</documentTitle>
+		<reportname>Extent Reports</reportname>
+		<testViewChartLocation>bottom</testViewChartLocation>
+	</configuration>
+ </extentReports>
